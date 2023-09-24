@@ -1,0 +1,204 @@
+Time Manipulation
+Minimalist
+Evolution
+One Button Control
+Parallel Worlds
+Gravity Shift
+Procedural Generation
+Color-based Puzzles
+Tower Defense
+Stealth
+Exploration
+Survival Horror
+Roguelike
+Cyberpunk
+Post-Apocalyptic
+Fantasy Quest
+Sci-Fi Adventure
+Mystical Creatures
+Hack and Slash
+Platformer
+Point and Click
+Puzzle Platformer
+Local Multiplayer
+Global Pandemic
+Dystopian Future
+Ancient Civilization
+Retro 8-bit
+Nature vs. Technology
+Mystery Solving
+Horror Survival
+Western
+Time Travel
+Underwater Adventure
+Crime Investigation
+Virtual Reality
+Alternate History
+Fairy Tale
+Steampunk
+Alien Invasion
+Cooking Simulation
+Artistic Expression
+Escape Room
+Music-based Gameplay
+Mythology
+World Building
+Space Exploration
+Superhero
+Comedy Adventure
+Noir Detective
+Battle Royale
+AI Companions
+Retro Futurism
+Time Loop
+Apocalypse
+Parallel Dimensions
+Mind Control
+Dreams vs. Reality
+Haunted House
+Wild West
+Environmental Conservation
+Climate Change
+Monster Hunting
+Bizarre Sports
+Espionage
+Robot Rebellion
+Alternate Realities
+Jungle Exploration
+Dinosaurs
+Mythical Beasts
+Space Colonization
+Intergalactic War
+Metroidvania
+Hacking
+Exploration of Microscopic World
+Mecha Battles
+Solar System Travel
+Mythical Gods
+Conspiracy Theories
+Crime Syndicate
+Pirates
+Post-Apocalyptic Romance
+Ancient Prophecies
+Cultural Revolution
+Political Intrigue
+Ocean Exploration
+Time-Traveling Detectives
+Cosmic Horror
+Fairy Tale Remix
+Urban Exploration
+Nature Reclaiming Cities
+Alternative Energy Sources
+Industrial Revolution
+Supernatural Powers
+Medieval Fantasy
+Historical Reenactment
+Steampunk Airships
+Space Pirates
+Quantum Mechanics
+Apocalyptic Love Story
+Parallel Universe Wars
+
+
+tech :
+
+Physics-based Puzzles
+Dynamic Lighting
+Reflection and Refraction
+Fluid Simulation
+Real-time Destruction
+Augmented Reality
+Shader Art
+Non-Euclidean Geometry
+Interactive Narratives
+Procedural Audio
+Dynamic Weather System
+Permadeath Mechanics
+Parallax Scrolling
+Isometric Viewpoint
+Inverse Kinematics
+Crowd Simulation
+Physics-driven Character Animation
+Dynamic AI Behavior
+Multi-threading Challenges
+Morphing Environments
+Simulated Ecosystem
+Networking and Multiplayer
+Simulated Physics Sandboxes
+Advanced Pathfinding
+Dynamic Terrain Generation
+Realistic Cloth Simulation
+Volumetric Rendering
+Data Visualization
+Reactive Environments
+Machine Learning Integration
+Emotionally Responsive AI
+Modular Level Design
+User-generated Content
+Soft Body Physics
+Real-time Global Illumination
+Ray Tracing Effects
+Particle Systems
+Holographic Interfaces
+Tessellation
+Voice Recognition
+Gesture-based Controls
+Interactive Music Composition
+Motion Capture Integration
+Interactive Holograms
+Neural Network-based Gameplay
+Real-time Reflections
+Dynamic Shadow Mapping
+Photogrammetry Environments
+Time Dilation Mechanics
+Realistic Water Simulation
+Physics-based Character Customization
+Facial Animation System
+Real-time Face Tracking
+Simulated Gravitational Effects
+Advanced AI Learning
+Dynamic Foliage System
+Adaptive Soundtracks
+Simulated Natural Disasters
+Realistic Fire Simulation
+Complex Decision Trees
+Hierarchical State Machines
+Advanced Procedural Animation
+Physics-driven Puzzle Mechanics
+Realistic Vehicle Physics
+Interactive VR Environments
+3D Printing Integration
+Quantum Computing Themes
+Simulation of Quantum States
+VR Hand Interactions
+Dynamic Resource Management
+Advanced Fluid Dynamics
+Interactive Haptic Feedback
+Real-time Cloth Interaction
+Genetic Algorithm Challenges
+Cybersecurity Challenges
+Simulated Neural Networks
+Interactive Physics Laboratories
+Real-time Soft Shadows
+Advanced Ragdoll Physics
+Programmable Gameplay Logic
+Complex Data Analysis
+Realistic Insect Behavior
+AI-driven Economy Simulation
+Real-time Wind Simulation
+Simulated Ocean Currents
+Dynamic Ecosystem Simulation
+Photorealistic Rendering
+Simulation of Quantum Entanglement
+Genetic Evolution Simulation
+Real-time Physics Education
+Dynamic User Interfaces
+Simulated Dynamic Growth
+Simulated Particle Collisions
+Quantum Cryptography Themes
+Reactive Virtual Pets
+Chaos Theory Integration
+Interactive Fractals
+Real-time Chemical Reactions
+Quantum Physics-based Puzzles
+Emergent Gameplay Systems
